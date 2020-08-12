@@ -1,2 +1,2 @@
 # Aplikasi-Absensi-Siswa-PKL
-Web
+Aplikasi dibuat dengan bahasa pemrograman PHP, Javascript, Relational Database menggunakan MySQL
